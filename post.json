@@ -1,0 +1,9 @@
+{
+  "database": "MikesDB",
+  "collection": "places",
+  "Document": {
+    "city": "Cagliari",
+    "lat": "39.223296",
+    "lon": "9.0924287"
+  }
+}
