@@ -12,7 +12,7 @@ if you want to try this out... you might need to have some stuff set up first.
 * Mongo docker image
 * Mongo Compass (optional but cool to visualize stuff
 * Python3.X
-* PostMan or Curl Knoledge!
+* PostMan or Curl Knowledge!
 
 ## Docker set up
 
